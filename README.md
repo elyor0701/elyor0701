@@ -14,7 +14,7 @@
 
 <b>⚡ Github Stats</b>
 <p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=elyor0701&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=elyor0701&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" style="vertical-align: sub"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyor0701&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
