@@ -13,3 +13,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elyor0701&theme=solarized_dark)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+![](https://raw.githubusercontent.com/elyor0701/cf-stats/main/output/light_card.svg)
