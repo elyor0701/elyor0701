@@ -18,20 +18,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyor0701&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyor0701&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Uralov's GitHub stats](https://github-readme-stats.vercel.app/api?username=elyor0701)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elyor0701)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=elyor0701)](https://github.com/elyor0701/github-readme-activity-graph)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elyor0701&theme=solarized_dark)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-![](https://raw.githubusercontent.com/elyor0701/cf-stats/main/output/light_card.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elyor0701)
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="280em" src="https://raw.githubusercontent.com/elyor0701/cf-stats/main/output/light_card.svg" />
+<img height="280em" src="https://leetcard.jacoblin.cool/elyorbekuralov?ext=heatmap" />
 </p>
 
