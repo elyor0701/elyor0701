@@ -25,6 +25,5 @@
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="280em" src="https://raw.githubusercontent.com/elyor0701/cf-stats/main/output/light_card.svg" />
-<img height="280em" src="https://leetcard.jacoblin.cool/elyorbekuralov?ext=heatmap" />
 </p>
 
